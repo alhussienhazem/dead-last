@@ -10,10 +10,18 @@ A cyberpunk-themed card game scoring app where the lowest score wins! Track your
 
 ## 🎯 Quick Links
 <p align="center">
-  <a href="https://your-demo-url-here.com">
+  <a href="https://alhussien.net/deadlast.html">
     <img src="https://img.shields.io/badge/▶️ Live Demo-00C7FF?style=for-the-badge&logoColor=white" alt="Live Demo">
   </a>
 </p>
+
+## 📋 Table of Contents
+- [🚀 Features](#-features)
+- [💻 Tech Stack](#-tech-stack)
+- [🎯 How to Play](#-how-to-play)
+- [🎨 Customization](#-customization)
+- [💖 Credits](#-credits)
+- [📄 License](#-license)
 
 ## 🚀 Features
 - 🎲 **Score System** - Real-time calculations with dynamic updates
@@ -31,14 +39,6 @@ A cyberpunk-themed card game scoring app where the lowest score wins! Track your
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)
-
-## 📸 Screenshots
-
-### 🎮 Game Interface
-![Game Interface](src/assets/images/deadlast-main.jpeg)
-
-### 👥 Player Setup
-![Player Management](src/assets/images/deadlast-players.jpeg)
 
 ## 🎯 How to Play
 
