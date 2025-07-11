@@ -1,0 +1,24 @@
+{
+  "name": "dead-last",
+  "version": "1.0.0",
+  "description": "A modern card game score tracker where the lowest score wins",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "serve public"
+  },
+  "keywords": [
+    "card-game",
+    "score-tracker",
+    "game",
+    "web-app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+} 
