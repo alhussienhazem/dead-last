@@ -1,63 +1,104 @@
-# 🎮 DEAD LAST 🎲
+# <div align="center">🎲 Dead Last 🏆</div>
 
-<p align="center">
-  <img src="src/assets/images/deadlast-logo.png" alt="Dead Last Logo" width="200" height="200">
-</p>
+<div align="center">
+  <img src="src/assets/images/deadlast-logo.png" alt="Dead Last Logo" width="200">
+  
+  *Being last never felt this good.*
+</div>
 
-> *"Being last never felt this good."* ✨
+## 🚀 Live Demo
 
-A cyberpunk-themed card game scoring app where the lowest score wins! Track your games in style with neon aesthetics and smooth animations. 🌟
+[Play Dead Last](https://your-demo-url-here.com)
 
-## 🎯 Quick Links
-<p align="center">
-  <a href="https://deadlast-demo.vercel.app">
-    <img src="https://img.shields.io/badge/▶️ Live Demo-00C7FF?style=for-the-badge&logoColor=white" alt="Live Demo">
-  </a>
-</p>
+## 📋 Table of Contents
 
-## 🚀 Features
-- 🎲 **Real-time Score Tracking** - Dynamic updates with slick animations
-- 🔄 **Multi-round System** - Play through 5 intense rounds
-- 👥 **Player Management** - Add and manage 2-6 players
-- 🎨 **Interactive 3D UI** - Powered by Three.js
-- 💾 **Auto-save** - Never lose your game progress
-- 🌙 **Dark Mode** - Easy on the eyes, heavy on style
+- [🎮 Game Overview](#game-overview)
+- [✨ Features](#features)
+- [🛠 Tech Stack](#tech-stack)
+- [📦 Getting Started](#getting-started)
+- [🃏 How to Play](#how-to-play)
+- [📄 License](#license)
 
-## 💻 Tech Stack
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🎮 Game Overview
 
-## 📸 Screenshots
+Dead Last is a stylish, web-based card game scorekeeper that turns the traditional scoring system on its head. In this unique game, players compete across 5 rounds where the lowest score wins! With its sleek cyberpunk aesthetic and intuitive interface, keeping track of your Dead Last matches has never been more engaging.
 
-### 🎮 Main Game Interface
-![Game Interface](src/assets/images/deadlast-main.jpeg)
+## ✨ Features
 
-### 👥 Player Management
-![Player Management](src/assets/images/deadlast-players.jpeg)
+- **Multiplayer Support**
+  - Add unlimited players
+  - Customize player names
+  - Easy player management
 
-## 🎯 How to Play
+- **Game Flow**
+  - 5-round structured gameplay
+  - Intuitive score input interface
+  - Real-time score calculations
+  - Dynamic scoreboard updates
 
-1. 🎲 Open `index.html` in your web browser
-2. 🚀 Click "Start Game" on the intro screen
-3. 👥 Add player names (minimum 4 players)
-4. ✍️ Start the game and input scores for each round
-5. 🏆 The player with the lowest total score wins!
+- **Modern Design**
+  - Neon/cyberpunk theme
+  - Animated background effects
+  - Responsive layout for all devices
+  - Smooth transitions and animations
 
-## 🎨 Customization
+- **User Experience**
+  - One-click game reset
+  - Easy navigation between rounds
+  - Clear visual feedback
+  - Instant winner determination
 
-Feel free to customize the application by modifying:
+## 🛠 Tech Stack
 
-- 🎨 Color scheme in the CSS variables (`:root` section in `styles.css`)
-- 🌟 3D background effects in the `initBackgroundEffects` function
-- ✨ Animation parameters in the GSAP animations
-- 🔄 Page transitions in the `navigateToPage` function
-- 💬 Winner celebration quotes in the `celebrationQuotes` array
-- 🔢 Number of rounds by changing the `TOTAL_ROUNDS` constant
-- 👥 Player count limits by adjusting `MIN_PLAYERS` and `MAX_PLAYERS` constants
+- **Frontend Core**
+  - HTML5
+  - CSS3
+  - Vanilla JavaScript
 
-## 💖 Credits
+- **3D Graphics**
+  - Three.js for background effects
 
-Created with ♦️ for card game enthusiasts everywhere 
+- **Animations**
+  - GSAP (GreenSock Animation Platform)
+
+- **Styling**
+  - Custom CSS variables
+  - Custom fonts
+  - Hand-crafted UI components
+
+## 📦 Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/dead-last.git
+   ```
+
+2. **Navigate to Project**
+   ```bash
+   cd dead-last
+   ```
+
+3. **Launch the Game**
+   - Simply open `index.html` in your preferred browser
+   - No build process or dependencies required!
+
+## 🃏 How to Play
+
+1. **Setup**
+   - Launch the game
+   - Add player names
+   - Click "Start Game"
+
+2. **Gameplay**
+   - Each player enters their score for the round
+   - Scores are automatically tallied
+   - Progress through all 5 rounds
+
+3. **Winning**
+   - After 5 rounds, scores are totaled
+   - The player with the lowest total score wins
+   - Celebrate being Dead Last! 🎉
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
