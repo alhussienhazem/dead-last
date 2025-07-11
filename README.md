@@ -10,7 +10,7 @@ A cyberpunk-themed card game scoring app where the lowest score wins! Track your
 
 ## 🎯 Quick Links
 <p align="center">
-  <a href="https://alhussien.net/deadlast.html">
+  <a href="https://alhussien.net/deadlast.html" target = "_blank">
     <img src="https://img.shields.io/badge/▶️ Live Demo-00C7FF?style=for-the-badge&logoColor=white" alt="Live Demo">
   </a>
 </p>
