@@ -1,103 +1,78 @@
-# <div align="center">🎲 Dead Last 🏆</div>
+# 🎮 DEAD LAST 🎲
 
-<div align="center">
-  <img src="src/assets/images/deadlast-logo.png" alt="Dead Last Logo" width="200">
-  
-  *Being last never felt this good.*
-</div>
+<p align="center">
+  <img src="src/assets/images/deadlast-logo.png" alt="Dead Last Logo" width="200" height="200">
+</p>
 
-## 🚀 Live Demo
+> *"Being last never felt this good."* ✨
 
-[Play Dead Last](https://your-demo-url-here.com)
+A cyberpunk-themed card game scoring app where the lowest score wins! Track your games in style with neon aesthetics and smooth animations. 🌟
 
-## 📋 Table of Contents
+## 🎯 Quick Links
+<p align="center">
+  <a href="https://your-demo-url-here.com">
+    <img src="https://img.shields.io/badge/▶️ Live Demo-00C7FF?style=for-the-badge&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
-- [🎮 Game Overview](#game-overview)
-- [✨ Features](#features)
-- [🛠 Tech Stack](#tech-stack)
-- [📦 Getting Started](#getting-started)
-- [🃏 How to Play](#how-to-play)
-- [📄 License](#license)
+## 🚀 Features
+- 🎲 **Score System** - Real-time calculations with dynamic updates
+- 🔄 **5-Round Game Flow** - Strategic multi-round gameplay
+- 👥 **Player Management** - Add unlimited players with custom names
+- 🎨 **Cyberpunk UI** - Neon theme with animated backgrounds
+- 🌐 **Responsive Design** - Play on any device
+- 🔥 **Smooth Animations** - Powered by GSAP
+- 🎯 **Easy Navigation** - Intuitive round progression
+- 🔄 **Quick Reset** - Start new games instantly
 
-## 🎮 Game Overview
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock)
 
-Dead Last is a stylish, web-based card game scorekeeper that turns the traditional scoring system on its head. In this unique game, players compete across 5 rounds where the lowest score wins! With its sleek cyberpunk aesthetic and intuitive interface, keeping track of your Dead Last matches has never been more engaging.
+## 📸 Screenshots
 
-## ✨ Features
+### 🎮 Game Interface
+![Game Interface](src/assets/images/deadlast-main.jpeg)
 
-- **Multiplayer Support**
-  - Add unlimited players
-  - Customize player names
-  - Easy player management
+### 👥 Player Setup
+![Player Management](src/assets/images/deadlast-players.jpeg)
 
-- **Game Flow**
-  - 5-round structured gameplay
-  - Intuitive score input interface
-  - Real-time score calculations
-  - Dynamic scoreboard updates
+## 🎯 How to Play
 
-- **Modern Design**
-  - Neon/cyberpunk theme
-  - Animated background effects
-  - Responsive layout for all devices
-  - Smooth transitions and animations
-
-- **User Experience**
-  - One-click game reset
-  - Easy navigation between rounds
-  - Clear visual feedback
-  - Instant winner determination
-
-## 🛠 Tech Stack
-
-- **Frontend Core**
-  - HTML5
-  - CSS3
-  - Vanilla JavaScript
-
-- **3D Graphics**
-  - Three.js for background effects
-
-- **Animations**
-  - GSAP (GreenSock Animation Platform)
-
-- **Styling**
-  - Custom CSS variables
-  - Custom fonts
-  - Hand-crafted UI components
-
-## 📦 Getting Started
-
-1. **Clone the Repository**
+1. 📥 **Get Started**
    ```bash
    git clone https://github.com/your-username/dead-last.git
-   ```
-
-2. **Navigate to Project**
-   ```bash
    cd dead-last
    ```
 
-3. **Launch the Game**
-   - Simply open `index.html` in your preferred browser
-   - No build process or dependencies required!
+2. 🎮 **Launch Game**
+   - Open `index.html` in your browser
+   - No build process needed!
 
-## 🃏 How to Play
-
-1. **Setup**
-   - Launch the game
+3. 🎲 **Game Rules**
    - Add player names
-   - Click "Start Game"
+   - Play through 5 exciting rounds
+   - Enter scores for each player
+   - Lowest total score wins!
+   - Celebrate being Dead Last! 🏆
 
-2. **Gameplay**
-   - Each player enters their score for the round
-   - Scores are automatically tallied
-   - Progress through all 5 rounds
+## 🎨 Customization
 
-3. **Winning**
-   - After 5 rounds, scores are totaled
-   - The player with the lowest total score wins
-   - Celebrate being Dead Last! 🎉
+Feel free to modify:
+
+- 🎨 Color schemes in CSS variables
+- 🌟 3D background effects
+- ✨ Animation parameters
+- 🔄 Page transitions
+- 👥 Player management
+- 🎮 Game flow settings
+
+## 💖 Credits
+
+Created with 🎲 for gamers who dare to be last!
 
 ## 📄 License
 
